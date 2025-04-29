@@ -1,0 +1,7 @@
+development:
+  dialect: postgres
+  database: go_stripe
+  user: admin
+  password: secret
+  host: 127.0.0.1
+  pool: 5
